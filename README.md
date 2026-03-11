@@ -14,4 +14,4 @@ con 12,316 registros y 32 variables.
 Python · pandas · seaborn · matplotlib · scipy
 
 ## 📊 Dashboard
-[Ver dashboard interactivo](dashboard_accidentes.html)
+[Ver dashboard interactivo](mini-dashboard_accidentes.html)
